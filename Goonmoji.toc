@@ -1,0 +1,28 @@
+## Interface: 120105, 16001
+## Title: Goonmoji
+## Version: 1.0
+## Author: Aeverous, Defias Brotherhood-EU (based on Emoji-Core by KittenBall)
+## Notes: Emoji and SomethingAwful smileys in chat. Type :shortcodes: or use the emoji keyboard.
+## IconTexture: Interface\AddOns\Goonmoji\Media\icon
+## AddonCompartmentFunc: Goonmoji_OnAddonCompartmentClick
+## SavedVariables: GoonmojiSaved
+## X-License: GPL-3.0 (code), OFL-1.1/Apache-2.0 (Noto Emoji)
+
+embeds.xml
+
+Locales\localization_enUS.lua
+Data\Emojis.lua
+Data\CodePoints.lua
+
+Init.lua
+Settings.lua
+Saved.lua
+AutoComplete.lua
+Keyboard.xml
+Core.lua
+Animator.lua
+Features.lua
+Api.lua
+
+Data\NotoPack.lua
+Data\SAPack.lua
